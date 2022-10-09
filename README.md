@@ -1,5 +1,4 @@
-# testing-method
-Homework for Software Testing 2022
+# Homework for Software Testing 2022
 
 This program is meant to test a "sum" function, which calculate the sum of 2 input integer number.
 2 methods chosen to be used on this homework is "Boundary Value Analysis" & "Equivalent Partitioning Testing".
@@ -14,8 +13,9 @@ This program is meant to test a "sum" function, which calculate the sum of 2 inp
 ### How to use
 Just run the 3rd and/or 4th file, results of the tests will be printed into the screen.
 
+---
 
-Bài tập Kiểm thử Phần mềm 2022
+# Bài tập Kiểm thử Phần mềm 2022
 
 Chương trình này được viết ra nhằm kiểm thử hàm "sum" - hàm tính tổng 2 số integer từ đầu vào.
 2 phương pháp kiểm thử được sử dụng trong bài tập này là "Phân tích giá trị biên" & "Kiểm thử Lớp Tương đương".
